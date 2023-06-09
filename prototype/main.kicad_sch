@@ -1,0 +1,133 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 71bbf5b6-a913-4747-956a-150714430eae)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 76.2 63.5) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 10961a25-19b6-4f34-b84e-851f54b2404d)
+    (property "Sheetname" "PSU" (at 76.2 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "psu.kicad_sch" (at 76.2 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 88.9) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 435e72e9-c3db-4675-9207-615c69453003)
+    (property "Sheetname" "BLE" (at 152.4 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ble.kicad_sch" (at 152.4 102.1846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 63.5) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8c222416-b30d-49c6-bdd9-9c9a8764b515)
+    (property "Sheetname" "stlink" (at 152.4 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "stlink.kicad_sch" (at 152.4 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 139.7) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 99ea563f-c02c-4fb8-ac53-c87105df1d88)
+    (property "Sheetname" "Bridge" (at 152.4 138.9884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "bridge.kicad_sch" (at 152.4 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 114.3 63.5) (size 25.4 88.9) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9d31cdd3-cc3b-4795-b588-f23fa2895525)
+    (property "Sheetname" "USB hub" (at 114.3 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "hub.kicad_sch" (at 114.3 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 114.3) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c320346d-8267-49ed-a2ae-83dbd52675fc)
+    (property "Sheetname" "Logic" (at 152.4 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "logic.kicad_sch" (at 152.4 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 203.2 88.9) (size 25.4 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ca3bda99-bde3-405c-8940-a13088a856d3)
+    (property "Sheetname" "uCurrent" (at 203.2 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "uCurrent.kicad_sch" (at 203.2 102.1846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "main"
+        (path "/71bbf5b6-a913-4747-956a-150714430eae" (page "7"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

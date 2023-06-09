@@ -1,1 +1,1 @@
-# yadt-hardware
+# Yet Another Debugging Tool: Hardware
