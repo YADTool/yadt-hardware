@@ -499,6 +499,10 @@
     [
       "10961a25-19b6-4f34-b84e-851f54b2404d",
       "PSU"
+    ],
+    [
+      "09b998b2-32d4-48d3-8b3b-2d0b35485b1e",
+      "USB Isolation"
     ]
   ],
   "text_variables": {}
