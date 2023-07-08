@@ -503,6 +503,10 @@
     [
       "9a4644cb-c31f-421b-817d-127b8e57b802",
       "RS485"
+    ],
+    [
+      "1f30a2a4-7ac7-4e47-844e-011ba981db3c",
+      "Electronic Load"
     ]
   ],
   "text_variables": {}
